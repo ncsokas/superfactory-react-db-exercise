@@ -1,4 +1,4 @@
-# React Product Database Exercise
+# React App Product Database using JSON server Exercise
 
 This project demonstrates how to build a React application that displays and manages product data from a local JSON database.
 
