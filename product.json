@@ -1,0 +1,61 @@
+{
+    "products": [
+      {
+        "id": "prod001",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "brand": "TechGear",
+        "price": 24.99,
+        "inStock": true,
+        "features": [
+          "Ergonomic design",
+          "2.4GHz wireless",
+          "Adjustable DPI"
+        ],
+        "rating": 4.5
+      },
+      {
+        "id": "prod002",
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "brand": "KeyMaster",
+        "price": 79.50,
+        "inStock": true,
+        "features": [
+          "RGB Backlighting",
+          "Blue Switches",
+          "Full N-key Rollover"
+        ],
+        "rating": 4.8
+      },
+      {
+        "id": "prod003",
+        "name": "Laptop Stand",
+        "category": "Accessories",
+        "brand": "StandUp",
+        "price": 35.00,
+        "inStock": false,
+        "features": [
+          "Adjustable height",
+          "Aluminum alloy",
+          "Portable"
+        ],
+        "rating": 4.2
+      },
+      {
+        "id": "prod004",
+        "name": "Webcam HD 1080p",
+        "category": "Electronics",
+        "brand": "ClearView",
+        "price": 49.99,
+        "inStock": true,
+        "features": [
+          "Built-in microphone",
+          "Autofocus",
+          "USB Plug-and-Play"
+        ],
+        "rating": 4.6
+      }
+    ]
+  }
+  
